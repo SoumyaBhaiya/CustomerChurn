@@ -30,7 +30,7 @@ This project analyzes customer churn using the [Superstore dataset](https://www.
 
 - **Language**: Python
 - **Libraries**:
-  - `pandas`, `numpy`, `matplotlib`, `seaborn`
+  - `pandas`, `numpy`, `matplotlib`
   - `scikit-learn`, `xgboost`
 - **Visualization**: Tableau
 
