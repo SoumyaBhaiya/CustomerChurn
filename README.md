@@ -22,7 +22,7 @@ This project analyzes customer churn using the [Superstore dataset](https://www.
 3. Evaluate models using AUC-ROC and classification metrics.
 4. Interpret models using SHAP and feature importance.
 5. Provide business suggestions to reduce churn.
-6. Export results for visualization in Tableau/Power BI.
+6. Export results for visualization in Tableau
 
 ---
 
@@ -32,7 +32,5 @@ This project analyzes customer churn using the [Superstore dataset](https://www.
 - **Libraries**:
   - `pandas`, `numpy`, `matplotlib`, `seaborn`
   - `scikit-learn`, `xgboost`
-  - `shap` for model interpretability
-  - `streamlit` (optional for dashboard)
-- **Visualization**: Tableau / Power BI-ready outputs
+- **Visualization**: Tableau
 
